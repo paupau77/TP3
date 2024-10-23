@@ -5,10 +5,6 @@
  */
 package gestordeinventario;
 
-/**
- *
- * @author Warlock
- */
 public class GestorDeInventario {
 
     /**
